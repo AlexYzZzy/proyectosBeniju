@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\bin\Debug\net6.0\arreglosBeni.exe
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\bin\Debug\net6.0\arreglosBeni.deps.json
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\bin\Debug\net6.0\arreglosBeni.runtimeconfig.json
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\bin\Debug\net6.0\arreglosBeni.dll
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\bin\Debug\net6.0\arreglosBeni.pdb
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\arreglosBeni.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\arreglosBeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\arreglosBeni.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\arreglosBeni.AssemblyInfo.cs
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\arreglosBeni.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\arreglosBeni.dll
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\refint\arreglosBeni.dll
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\arreglosBeni.pdb
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\arreglosBeni.genruntimeconfig.cache
+C:\Users\Alex\Desktop\visual_e\arreglosBeni\obj\Debug\net6.0\ref\arreglosBeni.dll
