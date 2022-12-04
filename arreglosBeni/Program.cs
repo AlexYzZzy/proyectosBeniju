@@ -14,6 +14,7 @@ namespace arreglosBeni
             Console.WriteLine("esto es un programa de vectores");
             int opcion = 0;
             while (opcion != 8)
+                //este es el menu principal para realizar algun movimiento
             {
                 Console.WriteLine("\n1. intercambio de elemento de vectores");
                 Console.WriteLine("2. Averiguar si una lista de numeros esta ordenada de menor a mayor");
@@ -24,6 +25,8 @@ namespace arreglosBeni
                 Console.WriteLine("7. Hallar el promedio de elementos de un vector");
                 Console.WriteLine("8. Salir");
                 Console.WriteLine("seleccione 1 de las opciones");
+                //en esta parte del codigo empezamos a meter el switch con su respectivo case
+                //cabe decir que usamos try catch para algunas excepciones
                 try
                 {
                     opcion = Convert.ToInt32(Console.ReadLine());
@@ -139,6 +142,7 @@ namespace arreglosBeni
                             }
                             break;
                         case 4:
+                            //usamos los "for" para poder no tener muchos errores
                             {
                                 try
                                 {
@@ -301,9 +305,11 @@ namespace arreglosBeni
                                 }
                             }
                             break;
+                            //implementamos un case para cuando se quieran salir del programa
                         case 8:
                             Console.WriteLine("Que tenga buen dia!!!:)");
                             break;
+                            //esta parte es para marcar un dato incorrcto que no se solicita
                         default:
                             Console.WriteLine("Esta opcion no es valida");
                             break;
@@ -314,6 +320,7 @@ namespace arreglosBeni
                     Console.WriteLine("Opcion no valida");
                 }
             }
+            //finalizando el programa
             Console.ReadKey();
         }
     }
